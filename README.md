@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola 👋
 
-<!--
-**Stiventorres-31/Stiventorres-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador de software apasionado por la tecnología y la programación.
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lenguajes de programación: Python, Java, Php, JavaScript.
+- Frameworks: Angular, CodeIgniter, Flask.
+
+## Contacto
+
+- Correo electrónico: torresmendozastiven@gmail.com
+- LinkedIn: [stiventorres](https://www.linkedin.com/in/stiventorres/)
+<!-- - Sitio web: [www.ejemplo.com](URL del sitio) ---!>
