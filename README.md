@@ -1,6 +1,8 @@
 ### Hola 👋
 
-Soy un desarrollador de software apasionado por la tecnología y la programación.
+Soy tecnólogo de Gestión de sistemas informático, con habilidades en desarrollo web y aplicaciones de escritorio. Me destaco por mis conocimientos en Php, Java, Python, bases de datos MySQL, la creación de Apis con JWT y GIT.
+También manejo framework como angular, reactjs para el front-end y Laravel, Flask para el back-end.
+Aunque no tengo experiencia laboral previa, he desarrollado competencias como la comunicación, el trabajo en equipo y la solución de problemas a través de mi formación académica. Me gustaría poner en práctica estos conocimientos en una empresa.
 
 ## Habilidades
 
